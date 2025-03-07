@@ -2,4 +2,4 @@
 
 ## TODO
 
-1. Can add logic for database operations
+1. Add sample logic for database operations ( with sqlite ) 
