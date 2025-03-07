@@ -1,5 +1,5 @@
-A Sample Python API using Fastapi to demonstrate crud operations
+### A Sample Python API using Fastapi to demonstrate crud operations
 
-##TODO
+## TODO
 
 1. Can add logic for database operations
